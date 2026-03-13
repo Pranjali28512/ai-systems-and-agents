@@ -14,3 +14,5 @@ Projects
 
 • Private knowledge chatbot using RAG
 • AI automation for business workflows
+
+Currently exploring the future of autonomous AI systems.
